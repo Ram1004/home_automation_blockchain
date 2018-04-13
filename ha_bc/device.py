@@ -3,7 +3,7 @@
 """
 Created on Thu Mar 15 21:58:30 2018
 
-@author: himanshu
+@author: ram
 """
 
 class devices:
