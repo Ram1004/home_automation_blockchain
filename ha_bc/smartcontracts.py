@@ -3,7 +3,7 @@
 """
 Created on Thu Mar 15 11:22:32 2018
 
-@author: himanshu
+@author: Ram
 """
 
 class SmartContract:
